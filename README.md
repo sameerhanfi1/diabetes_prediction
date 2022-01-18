@@ -5,4 +5,4 @@
 3. Copy that IP-Address and paste it in your browser. 
 4. Now give your inputs as requested and click on the search button.
 5. Now the model will predict if you are having diabetes or not.
-6. Now you can give various inputs from different people.
+6. You can now give various inputs from different people.
